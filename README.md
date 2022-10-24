@@ -8,17 +8,17 @@ Ao final, 97,6% de acurácia no treinamento foi obtida e 98,1% de acurácia na v
 Pretendo avaliar alterações na arquitetura dessa rede neural profunda e estender sua base de dados com outros gestos.
 
 ## Banco de Dados
-![](./imgs/base de dados.gif)
+![](imgs/base%20de%20dados.gif?raw=true)
 
 ### Aplicação da técnica de aumento de dados
-![](./imgs/bd.png)
+![](imgs/bd.PNG?raw=true)
 
 ## Classificação  WEBCAM
-![](./imgs/rede.png)
+![](imgs/rede.PNG?raw=true)
 
 
 ##  CNN Implementada
-![](./imgs/cnn.png)
+![](imgs/cnn.PNG?raw=true)
 
 ## Informações Complementares
 Para rodar o projeto, crie uma pasta virtualenv e após ativa-la dê o comando "pip install -r requirements.txt" para baixar as bibliotecas nas versões utilizadas no projeto.
