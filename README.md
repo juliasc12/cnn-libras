@@ -8,7 +8,7 @@ Ao final, 97,6% de acurácia no treinamento foi obtida e 98,1% de acurácia na v
 Pretendo avaliar alterações na arquitetura dessa rede neural profunda e estender sua base de dados com outros gestos.
 
 ## Classificação  WEBCAM
-![](https://i.ibb.co/w0hMh1C/capture2.png)
+![](https://imageup.me/b7i)
 
 
 ##  CNN Implementada
