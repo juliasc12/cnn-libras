@@ -22,3 +22,5 @@ Pretendo avaliar alterações na arquitetura dessa rede neural profunda e estend
 
 ## Informações Complementares
 Para rodar o projeto, crie uma pasta virtualenv e após ativa-la dê o comando "pip install -r requirements.txt" para baixar as bibliotecas nas versões utilizadas no projeto.
+
+Disponível pra leitura aqui: [TCC.pdf](https://www.docdroid.net/q7HYakT/tcc-juliasilvacastro-1-1-pdf)
